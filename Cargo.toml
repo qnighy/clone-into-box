@@ -5,4 +5,15 @@ authors = ["Masaki Hara <ackie.h.gmai@gmail.com>"]
 edition = "2018"
 build = "build.rs"
 
+homepage = "https://github.com/qnighy/clone-into-box"
+repository = "https://github.com/qnighy/clone-into-box"
+readme = "README.md"
+keywords = ["clone", "trait object"]
+categories = ["rust-patterns", "memory-management"]
+license = "MIT OR Apache-2.0"
+
+[badges]
+is-it-maintained-issue-resolution = { repository = "qnighy/clone-into-box" }
+is-it-maintained-open-issues = { repository = "qnighy/clone-into-box" }
+
 [dependencies]
