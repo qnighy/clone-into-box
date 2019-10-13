@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/qnighy/clone-into-box.svg?branch=master)](https://travis-ci.com/qnighy/clone-into-box)
+
 A library for cloning trait objects.
 
 ## Instability
