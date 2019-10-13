@@ -9,7 +9,7 @@ build = "build.rs"
 homepage = "https://github.com/qnighy/clone-into-box"
 repository = "https://github.com/qnighy/clone-into-box"
 readme = "README.md"
-keywords = ["clone", "trait object"]
+keywords = ["clone", "trait-object"]
 categories = ["rust-patterns", "memory-management"]
 license = "MIT OR Apache-2.0"
 
